@@ -1,0 +1,46 @@
+.footer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    background-color: #273141;
+    color: hsl(0, 0%, 100%);
+ font-family: raleway;
+ padding: 50px;
+ 
+}
+
+.text > p{
+    font-size: 14px;
+}
+.text > h5{
+    font-size: 16px;
+}
+
+section{
+    display: flex;
+   justify-content: space-between;
+    width:70%;
+}
+
+.hr{
+    color:grey;
+}
+#iconSection{
+    display: flex;
+ width: 60%;
+ margin:auto;
+}
+
+#iconSection > p {
+    font-size: 14px;
+    margin: auto 0px;
+}
+
+.footerIcons{
+    width: 25%;
+    display:flex;
+    justify-content: space-between;
+    margin: auto;
+}
