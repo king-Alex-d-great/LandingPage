@@ -1,0 +1,237 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+}
+.LandingPage {
+  padding: 0px;
+}
+.TopLayerLandingPage {
+  background-color: #e2514c;
+  display: flex;
+  padding: 0px 150px;
+  width: 100%;
+}
+.TopLayerLandingPageTextArea {
+  
+  height: auto;
+  margin: auto 0px;
+}
+
+.TopLayerLandingPageTextArea > h1 {
+  font-size: 61px;
+  font-weight: 700px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 74.36px;
+}
+
+.TopLayerLandingPageTextArea > p {
+  margin: 50px auto;
+  line-height: 24px;
+}
+
+button{
+  background-color: #ffffff;
+  color: #e2514c;
+  border-radius: 32px;
+  border: none;
+  width: 210px;
+  height:44px;
+}
+
+.secondLayerLandingPage {
+  width: 100%;
+  padding: 120px;
+  display: flex;
+  justify-content: center;
+  font-family: "raleway", "montserrat";
+  background-color: #ffffff;
+  color: black;
+}
+.secondLayerLandingPage > p {
+  margin: auto 50px;
+  color: #18191F;
+  line-height: 32px;
+}
+.secondLayerArrowIcon{
+  color: #e2514c;
+  height: 14px;
+  width:22px;
+}
+.secondLayerImage {
+  margin-right: 70px;
+}
+.thirdLayerLandingPage {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: #e2514c;
+}
+.thirdLayerLandingPage > div {
+  text-align: center;
+  margin: 30px;
+}
+
+.thirdLayerLandingPage > div > p {
+  font-size: 16px;
+}
+.thirdLayerLandingPage > div > p{
+  color: #ffffff;
+}
+
+.FourthLayerLandingPage {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #ffffff;
+  width: 100%;
+}
+ h2 {
+  font-weight: bolder !important;
+  font-size: 35px;
+  color: black;
+  margin-top: 50px;
+}
+
+.has-search .form-control {
+  padding-left: 2.375rem;
+  width:100%;
+  margin-bottom: 50px;
+  border-radius: 48px;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+}
+.fa-search {
+  color: #e2514c;
+  width: 25px !important;
+  position: relative;
+  top: 3px;
+}
+.FourthLayerMain {
+  margin: 70px auto;
+  width: 60%;
+}
+.FourthLayerBoxesContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: auto;
+}
+.FourthLayerBoxes {
+  margin: 10px;
+}
+
+.FifthLayerLandingPage{
+   width: 100%;
+   border: 1px solid white;
+   display:flex;
+   justify-content: center;
+   background: #18191F;
+   color:#ffffff
+}
+
+.FifthLayerTopTextSection > h2{
+
+font-family: "Montserrat";
+font-size: 35px;
+font-style: normal;
+font-weight: 600;
+line-height: 40px;
+
+}
+.FifthLayerTopTextSection > p {
+  font-size: 16px;
+}
+
+.FifthLayerSection1{
+width: 40%;
+display:flex;
+flex-direction: column;
+justify-content: flex-start;
+padding: 40px;
+}
+
+.quote{
+  border-radius: 8px;
+    text-align: left;
+    padding:80px 40px;
+    color: #18191F;
+    background-color: #ffffff;
+}
+ 
+.quote > p { 
+  font-size: 16px;
+}
+.quote > h4 {
+  font-size: 20px;
+}
+
+.nameTitle {
+  color:#969BAB;
+}
+#quote1{
+    width: 350px;
+    height: 436px;
+    align-self: flex-end;
+    
+}
+
+.FifthLayerSection2{
+  width:40%;
+  padding: 70px 0px;
+  
+}
+#quote2{
+  width:445px;
+  height:340px;
+  margin: 20px 0px;
+}
+
+#quote3{
+  width:445px;
+  height:276px;
+  margin: 0px;
+  padding:40px 40px;
+}
+.sixthLayerLandingPage {
+  width: 100%;
+  padding: 120px;
+  display: flex;
+  justify-content: flex-start;
+  font-family: "raleway", "montserrat";
+  background-color:white;
+  color: black;
+}
+.sixthLayerImage{
+  margin-left: 50px;
+}
+
+.sixthLayerLandingPage > div{
+  margin: auto 0px;
+}
+
+.sixthLayerLandingPage > div > p{
+font-size: 16px;
+text-align: left;
+color: #e2514c;
+margin: 20px 0px;
+}
+
+.sixthLayerLandingPage > div > h4 {
+font-size: 34px;
+font-weight: 600;
+line-height: 40px;
+}
+
+#Getstarted2{
+  background-color: #e2514c;
+  color: white ;
+}
+

@@ -1,0 +1,36 @@
+.NavBar{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    justify-content: flex-start;
+    background-color: #e2514c;
+    width: 100%;
+    padding: 20px;
+    
+}
+svg{
+    margin:auto 0px;
+}
+.rightSideOfNavBar{
+    width: 90%;
+    display:flex;
+    justify-content: flex-end;
+font-size: 14px;
+}
+.rightSideOfNavBar > a {
+    margin: auto 0px;
+  
+}
+.Login{
+    width: 72px;
+    height: 44px;
+    border-radius: 32px;
+    padding: 10px 6px;
+    margin: 0px auto; 
+   
+}
+.getStarted{
+    width: 107px;
+}
+.nav{
+    font-size: 16px;
+}
